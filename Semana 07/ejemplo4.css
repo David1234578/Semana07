@@ -1,0 +1,17 @@
+.texto-rojo{
+    color: rgb(230, 27, 27);  font-size: 128px; text-align: center; font-family:cursive
+}
+.texto-rosado{
+    color: rgb(247, 17, 178);  font-size: 128px; text-align: center; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.texto-morado{
+    color: rgb(51, 2, 58);  font-size: 48px; text-align: center;
+}
+.texto-azul{
+    color: rgb(26, 21, 185);  font-size: 48px; text-align: center;
+}
+.texto-gris{
+    color: rgb(56, 52, 78);  font-size: 48px; text-align: center;
+}
+
+
